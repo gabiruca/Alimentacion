@@ -1,0 +1,15 @@
+﻿Ceviche de camarón,camarones,907.185
+Ceviche de camarón,cebolla seca,120
+Ceviche de camarón,tomate,168
+Ceviche de camarón,pimiento,20
+Ceviche de camarón,zumo de limon natural,85
+Aguado de pollo,pechuga de pollo, 312
+Aguado de pollo,cebolla seca,12
+Aguado de pollo,pimiento,10
+Aguado de pollo,tomate,16
+Aguado de pollo,caldo de pollo,100
+Aguado de pollo,zanahoria,15
+Arroz con menestra de lentejas,cebolla seca,12
+Arroz con menestra de lentejas,pimiento,10
+Arroz con menestra de lentejas,tomate,16
+Arroz con menestra de lentejas,arroz blanco cocido,200
